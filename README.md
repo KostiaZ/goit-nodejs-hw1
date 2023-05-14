@@ -1,9 +1,5 @@
 # goit-nodejs-hw1
 
-https://ibb.co/vJHjdZ7
-https://ibb.co/NxjT8c9
-https://ibb.co/sPyMsYd
-https://ibb.co/FgG6LCF
 
 
 <a href="https://ibb.co/vJHjdZ7"><img src="https://i.ibb.co/K9XrsFM/2023-05-14-18-21-35.png" alt="2023-05-14-18-21-35" border="0"></a>
